@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "get-pixels": "latest"
+  },
+  "description": "A simple utility to compare 2 images and assert differences between them",
+  "name": "compimag",
+  "main": "comparer",
+  "readmeFilename": "README.md",
+  "version": "0.1.8"
+}
